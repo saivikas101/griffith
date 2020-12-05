@@ -490,7 +490,7 @@ class Player extends Component {
                 )}
               >
                 <Icon icon={icons.replay} styles={styles.replayIcon} />
-                重新播放
+          
               </div>
             </div>
           )}
